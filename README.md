@@ -1,8 +1,39 @@
-## Things you need to do:
+#  Blockchain-Based Agricultural Traceability
 
-- Project.sol file - Rename this file and add the solidity code inside it.
-- deploy.js file - Add the deploy.js (javascript) code inside it.
-- .env.example - Add the Private Key of your MetaMask Wallet's account.
-- Readme.md file - Add the Readme content inside this file.
-- package.json file – Replace the `"name"` property value from `"Project-Title"` to your actual project title. <br/>
-*Example:* `"name": "crowdfunding-smartcontract"`
+A simple yet powerful **blockchain solution** to make agriculture more **transparent and trustworthy**.  
+This project tracks every step of a product’s journey — from **farm to table** — using **smart contracts** and **decentralized data storage**.
+
+---
+
+##  What It Does
+- Farmers can **register their produce** and record key details.  
+- Every stage (harvest, packaging, transport) is **logged on-chain**.  
+- Consumers can **scan a QR code** to see where their food came from.  
+- All records are **tamper-proof** and **verifiable** through the blockchain.
+
+---
+
+##  Tech Stack
+- **Blockchain:** Ethereum / Polygon  
+- **Smart Contracts:** Solidity  
+- **Backend:** Node.js & Express  
+- **Frontend:** React.js  
+- **Storage:** MongoDB 
+
+---
+
+##  How It Works
+1. **Farmer adds product info** ( farm details, etc.)  
+2. **Distributors & retailers update** the product’s status as it moves.  
+3. **Consumers scan a QR code** to view the full blockchain history.
+
+---
+
+##  Why It Matters
+Food fraud and lack of transparency are big challenges.  
+This system builds **trust** and gives **visibility** to every stakeholder — ensuring safer, more accountable food supply chains.
+
+---
+
+ 
+
