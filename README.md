@@ -35,5 +35,6 @@ This system builds **trust** and gives **visibility** to every stakeholder — e
 
 ---
 
- 
+ <img width="1470" height="956" alt="Screenshot 2025-11-03 at 10 51 24 PM" src="https://github.com/user-attachments/assets/1f66ee67-b848-4c15-a942-9c5adab9c985" />
+
 
